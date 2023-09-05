@@ -1,0 +1,12 @@
+{
+    "cmake.configureOnOpen": false,
+    "java.project.sourcePaths": [
+        "Mod01/Lessons",
+        "Mod01/Assignments/Scripts/StudentInfoCard",
+        "Mod01/Assignments/Scripts/Printing Arithmetic Expressions",
+        "Mod01/Assignments/Scripts/Assignment 1.09",
+        "Mod01/Assignments/Scripts/Assignment 1.08",
+        "Mod01/Assignments/Scripts/Arithmetic Expessions 1.08",
+        "Mod01/Assignments/Scripts/Arithmetic Expressions 1.10"
+    ]
+}

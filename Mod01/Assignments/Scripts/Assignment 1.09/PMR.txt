@@ -1,0 +1,12 @@
+Title: 01.09 Calculations V6
+Purpose: Utilize integer and float variables as well as string concatenation to print out arithmetic expressions
+Date: 8/29/23
+Author: Gavin Perry
+
+PMR:
+
+    +: Had no issues comprehending the concepts covered however occasionally made syntax errors.
+
+    -: I took a long time to write all of the concatenated print statements and made a few errors in writing them that needed to be corrected after.
+
+In the Future: I'd learn how to use formatted strings to write the print statements a little faster and avoid potentional errors in slow rewriting.

@@ -1,0 +1,15 @@
+Title: 01.04 Student Info Card
+Purpose: Print out important student information using print println functions
+Date: 8/27/23
+Author: Gavin Perry
+
+PMR:
+
+    +: I had a chance to try multiple different Java enviorments, and I settled on two that I enjoy
+    and am now comfortable with.
+
+    -: I initally had print statements for all the information, but they weren't organized very well so I had to go back
+    and add dividers + a banner.
+
+In the Future: I'll start with the dividers and organization so that I can keep things organized as I write the
+project instead of having to go back
