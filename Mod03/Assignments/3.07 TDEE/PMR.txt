@@ -1,0 +1,12 @@
+Title: 3.07 TDEE
+Purpose: Display a users TDEE based on their BMR, activity level, and sex using logical operators and string methods.
+Date: 11/3/23
+Author: Gavin Perry
+
+PMR:
+
+    +: The logical operators and utilizing string methods for comparisons is all understandable and I'm confident I could use them next time I need them.
+
+    -: I was a bit confused on how to go about getting the activity factor from the menu at first, and I'm not happy with my solution. I think using multiple lists or hashmaps would be better than so many if else statements in the future.
+
+In the Future: I'd like to learn a more readable, expandable and shorter way to get an activity factor from the menu or other problems like it, perhaps using a hashmap. 

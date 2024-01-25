@@ -47,60 +47,65 @@ public class MixedTypes
         
         // Addition with variables of same type: int
         // Remove the comments around this code when ready to run.   
-        /*System.out.println("Addition of two ints");
+        System.out.println("Addition of two ints");
         iSum = iX + iY;
         System.out.print(iX + " + " + iY + " = ");
         System.out.println(iSum);
         System.out.println();
-        */
+        
         
         // Addition with variables of same type: double
         // Remove the comments around this code when ready to run.   
-        /*System.out.println("Addition of two doubles");
+        System.out.println("Addition of two doubles");
         dSum = dX + dY;
         System.out.print(dX + " + " + dY + " = ");
         System.out.println(dSum);
         System.out.println();
-        */
+        
         
         // arithmetic promotion of an int to a double
         // Remove the comments around this code when ready to run.   
-        /*System.out.println("Arithmetically promoting an int to a double");
+        System.out.println("Arithmetically promoting an int to a double");
         System.out.println("in which an increase of precision occurs");
         dSum = iX + dY;
         System.out.print(iX + " + " + dY + " = ");
         System.out.println(dSum);
         System.out.println();
-        */
+        
        
         // Addition with variables of different type        
         // Remove the comments around this code when ready to run.   
-        /*System.out.println("Addition of mixed variable types");
-        iSum = dX + iY; //Why is iSum the wrong type to use in this statement?
+        System.out.println("Addition of mixed variable types");
+        dSum = dX + iY; //Why is iSum the wrong type to use in this statement?
         System.out.print(dX + " + " + iY + " = ");
         System.out.println(dSum);
         System.out.println();
-        */   
+           
         
         // casting double to an int, a narrowing conversion
         // Remove the comments around this code when ready to run.   
-        /*System.out.println("Casting a double to an int (narrowing)");
+        System.out.println("Casting a double to an int (narrowing)");
         System.out.println("in which a loss of precision occurs.");
         iSum = iX * (int)dY;
         System.out.print(iX + " * " + (int)dY + " = ");
         System.out.println(iSum);
         System.out.println();
-        */
+        
         
         // casting an int to a double, a widening conversion
         // Remove the comments around this code when ready to run.   
-        /*System.out.println("Casting an int to a double (widening)");
+        System.out.println("Casting an int to a double (widening)");
         System.out.println("in which an increase of precision occurs.");
         dSum = (double)iX / iY;
         System.out.print((double)iX + " / " + iY + " = ");
         System.out.println(dSum);
         System.out.println();
-        */        
+        
+
+        // own
+        dSum = (int)38.9;
+        System.out.println(dSum);
+
     }//end of main method
 }//end of class
 

@@ -1,0 +1,12 @@
+Title: 01.12 GradesV2
+Purpose: The purpose of this program is to calculate and display the average and total test scores across 4 tests using doubles and integers with type casting.
+Date: 9/7/23
+Author: Gavin Perry
+
+PMR:
+
+    +: After completion I throughly understand the way Java does type casting for integer and double variables and how to use the increment operator (++)
+
+    -: I spent a long time confused about how do calculate the average and why it wasn't working. I went though multiple incorrect designs like ```average = ((average * numTests-1) + testGrade) / (double)numTests;```
+
+In the Future: I now can use a accumulative average in my programs which I previously didn't know, and I now know what I should be manually typecasting when working with doubles and integers.

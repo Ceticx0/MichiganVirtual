@@ -1,0 +1,12 @@
+Title: 2.03 Math Methods Demo
+Purpose: calculate and display Hypotenuse of two randomly generated right triangles
+Date: 10/5/2023
+Author: Gavin Perry
+
+PMR:
+
+    +: I understoof how and why the Math class utilizes static methods to make calculation easier.
+
+    -: I initally wasn't sure of the order of operators for type casting, and had to test it, and I initally had the range of my random function incorrect, but fixed it.
+
+In the Future: I think using Math.pow is a bit combersome each time you want to raise something to the power of 2, I know many languages have a shorthand operator like **, id like to learn Java's if it has one

@@ -1,0 +1,12 @@
+Title: 2.09 Making Method Calls
+Purpose: illustrate how to call void and return methods in the main function.
+Date: 10/13/2023
+Author: Gavin Perry
+
+PMR:
+
+    +: I was already decently familiar with methods in java, and understood all the concepts in this lesson and assignment.
+
+    -: I didn't initally realize the divison method was not a void method and didn't understand the last prompt momentarily, I realized my mistake quickly however
+
+In the Future: I should read or glance through the methods I'm going to be using or at least their inputs and return types.

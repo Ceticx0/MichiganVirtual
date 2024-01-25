@@ -1,0 +1,12 @@
+Title: 5.08 Constructing Multiple Objects
+Purpose: Create a class with constructor and method overloading, and getters and setters, as well as a class to test it with multiple objects.
+Date: 2023-12-15
+Author: Gavin Perry
+
+PMR:
+
+    +: I understand and can effectively write, overloaded constructor and methods, as well as getters and setters.
+
+    -: Writing all of the getters and setters is a bit tedious
+
+In the Future: I'd like to find out if there is some way to automate the create of getters and setters in my ide.

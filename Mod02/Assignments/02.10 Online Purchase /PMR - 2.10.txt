@@ -1,0 +1,12 @@
+Title: 2.10 Buy Groceries
+Purpose: Display Grocery recipt based on parsed user input. 
+Date: 10/17/2023
+Author: Gavin Perry
+
+PMR:
+
+    +: I found the parsing of the strings relatively straightforward and am confident that I can use it in the future effectively.
+
+    -: Initally my scan.nextLine(); on line 20 was not waiting for input, I found out that it was because it was eating the \n from the previous input, which .nex() doesn't
+
+In the Future: I will know how to prevent Scanner.nextLine() method from absorbing unwanted characters instead of waiting for input.

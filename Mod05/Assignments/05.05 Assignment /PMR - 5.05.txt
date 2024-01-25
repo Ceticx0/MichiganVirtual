@@ -1,0 +1,12 @@
+Title: 5.05 Default Constructors
+Purpose: Create an implementation class with a default constructor and test its methods in another test class
+Date: 2023-12-15
+Author: Gavin Perry
+
+PMR:
+
+    +: Defining methods and instatiating classes was no issue.
+
+    -: I had trouble remembering the synax for constructors initally, and also included parameters instead of making it a default constructor.
+
+In the Future: I'd like to learn more complex things you can do with classes.

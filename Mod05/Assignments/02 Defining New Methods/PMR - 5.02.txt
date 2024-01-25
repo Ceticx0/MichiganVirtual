@@ -1,0 +1,12 @@
+Title: 5.02 Defining New Methods
+Purpose: Use static methods to calculated and display formatted information about a planets properties.
+Date: 2023-12-8
+Author: Gavin Perry
+
+PMR:
+
+    +: By now, I really have no issue defining and using static methods, and I completed the progam relatively quickly.
+
+    -: It's a bit annoying and tedious to format output using \t, it took me multiple attempts to make everything aligned.
+
+In the Future: I'd like to learn more advanced usage of String.format that allows you to format text easier by specifing a length.

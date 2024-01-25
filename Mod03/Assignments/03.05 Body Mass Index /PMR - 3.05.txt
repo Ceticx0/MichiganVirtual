@@ -1,0 +1,12 @@
+Title: 3.05 BMI
+Purpose: Display users BMI after taking in height and weight and doing conversions on inputs.
+Date: 11/2/23
+Author: Gavin Perry
+
+PMR:
+
+    +: None of the base logic was challenging and I dont think I'll have any issues with if-else-if in the future.
+
+    -: I got the logic for rouding the outputted strings wrong a few times, I am confident I can do it now, however I think it's a bit verbose and annoying to change.
+
+In the Future: I'd like to learn to use String.format to round numbers easier.

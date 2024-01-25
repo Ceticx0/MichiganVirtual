@@ -1,0 +1,12 @@
+Title: 4.07 Calling Methods
+Purpose: Use various static methods to convert a random number into a hidden message
+Date: 12/1/2023
+Author: Gavin Perry
+
+PMR:
+
+    +: Defining and calling static methods is not complicated, I implemented that aspect first try and will be confident with them in the future. 
+
+    -: Implementing all the program logic perfectly took me a long process of debugging various issues that arose. I had a few errors in some of my functions and had to try various different things for step 4 since the instructions were ambigous.
+    
+In the Future: I'd like to find more elegant ways to do certain functions in this program, and leave less room for small errors.

@@ -38,7 +38,7 @@ public class CalculationsV3
         System.out.println("9 / 25 = " + 9 / 25);
         System.out.println( "43.21 / 10.0 = " + 43.32 / 10);
         //System.out.println();
-         
+        
         // Modulus operator
         System.out.println("Modulus");
         System.out.println("11 % 9 = " + 11 % 9);

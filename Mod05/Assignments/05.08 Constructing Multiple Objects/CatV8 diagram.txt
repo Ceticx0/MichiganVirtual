@@ -1,0 +1,22 @@
+CatV8
+---------------------------------
+<< Constructor >>
+
++ CatV8()
++ CatV8(String name, int age, String color)
+
+<< Method >>
+
++ void fall(String name)
++ int getLives(int age)
++ void judge(String person)
++ void judge(String person, int personAge)
++ int getLives()
++ String getName()
++ int getAge()
++ String getColor()
++ void setColor(String color)
++ void setAge(int age)
++ void setName(String name)
++ void setLives(int lives)
++ void gainLife()

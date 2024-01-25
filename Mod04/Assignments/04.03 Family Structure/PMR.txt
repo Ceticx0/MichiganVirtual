@@ -1,0 +1,12 @@
+Title: 4.03 Family Members
+Purpose: Read data from file to display gender demographics of sample of families.
+Date: 12/16/2023
+Author: Gavin Perry
+
+PMR:
+
+    +: Scanning from the file itself is very similar to reading input, so it wasn't challenging to implement the core counting logic of the program.
+
+    -: I had a bit of trouble setting up the file scanner object initally. First I forgot to create the file object for the scanner to refrence, and then I forgot to specify the error my class can return.
+
+In the Future: I want to understand when and why I use 'throws' when defining a class, and what exceptions I might want to put there.

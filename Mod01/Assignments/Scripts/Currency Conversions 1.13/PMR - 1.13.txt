@@ -1,0 +1,12 @@
+Title: 01.13 Currency Conversions
+Purpose: Use type casting and arithmetic expressions to calculate different currency conversions and dollar amounts spent as well as budgeting souvenirs and display the results to the user
+Date: 9/21/23
+Author: Gavin Perry
+
+PMR:
+
+    +: The currency coversion and first souvenir budgeting wasn't a challenge, and I think I executed it nicely.
+
+    -: I was initally confused at the calculation for total items too, and had to try a few different ways of typecasting before getting the correct result.
+
+In the Future: In the Future: I would make the program more versatile by allowing the user to input various places and items they would go to and buy instead of making the program so fixed.

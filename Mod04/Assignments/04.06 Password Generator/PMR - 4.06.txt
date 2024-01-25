@@ -1,0 +1,12 @@
+Title: 4.06 Writing Text Files
+Purpose: Generate a random password of a given length from a specific ascii range character set and write them to or display them from a file.
+Date: 11/30/2023
+Author: Gavin Perry
+
+PMR:
+
+    +: I learned how to write to files and am confident I could use them in the future in different and similar ways.
+
+    -: I initally strugged to come up with the control flow for this program, and made a few smaller mistakes like mistaking == and .equals 
+
+In the Future: I am confident I can write to files in the future and I know more about validating inputs, however I would like to learn how to write binary data like to databases or java object.
