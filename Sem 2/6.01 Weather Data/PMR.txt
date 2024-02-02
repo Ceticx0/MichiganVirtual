@@ -1,0 +1,12 @@
+Title: 6.02 Formatting output
+Purpose: Use printf methods to neatly display data
+Date: 2024-1-25
+Author: Gavin Perry
+
+PMR:
+
+    +: I really like formatting with the prinf methods, and find it significantly easier than println.
+
+    -: There was quite a few ways to do everything, I was torn trying to decide which route to take in my program.
+
+In the Future: I'd like to continue using prinf to format data easier.
