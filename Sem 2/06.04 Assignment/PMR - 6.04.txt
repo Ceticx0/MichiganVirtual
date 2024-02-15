@@ -1,0 +1,12 @@
+Title: 6.04 Arrays of Objects
+Purpose: Create and utilize arrays of objects and iterating through them.
+Date: 2024-2-2
+Author: Gavin Perry
+
+PMR:
+
+    +: I had no trouble with the major content in this lesson, iterating with the shorter for loop syntax is nice, and arrays of objects are helpful to use.
+
+    -: I had some trouble figuring out how to best format the output, and I'm still not entirely happy with it.
+
+In the Future: I think using arrays of objects to make code shorter will be a valuble skill

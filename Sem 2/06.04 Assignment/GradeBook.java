@@ -1,3 +1,4 @@
+// Gavin Perry, 2/2/2024, create Gradebook class
 public class GradeBook
 {
    private double sem1Grade;
@@ -31,10 +32,10 @@ public class GradeBook
       this.sem2Grade = sem2Grade;
    }
 
-   public double calcGrade()
+   public double calcDifference()
    {
-       double finalGrade = (sem1Grade + sem2Grade) / 2;
-       return finalGrade;
+      double difference = sem2Grade - sem1Grade;
+      return difference;
    }
    
    //overloaded method
@@ -44,8 +45,14 @@ public class GradeBook
       return difference;
    }
 
+   public double calcAverage(double grade1, double grade2)
+   {
+      double average = (grade1 + grade2) / 2;
+      return average;
+   }
+
    public String toString() {
-      return String.format("Semester 1 Grade: %.2f\nSemester 2 Grade: %.2f\nFinal Grade %.2f\n", getSem1Grade(), getSem2Grade(), calcDifference());
+      return String.format("%15.2f%15.2f%15.2f", getSem1Grade(), getSem2Grade(), calcDifference());
    }
     
 }

@@ -1,0 +1,12 @@
+Title: 6.05 Magpie Lab
+Purpose: Learn about NLP techniques
+Date: 2024-2-2
+Author: Gavin Perry
+
+PMR:
+
+    +: I think its kind of interesting to see how certain chatbots work, and I found it fun to rack my brain trying to figure out what the professor could be doing behind the scenes.
+
+    -: This lesson took me a long time to complete, and I felt some of it was repetitive, however I eventually understood all of the content covered.
+
+In the Future: I'd like to learn about more complex NLP techniques, especially those with machine learning involved.

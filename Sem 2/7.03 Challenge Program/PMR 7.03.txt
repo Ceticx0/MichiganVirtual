@@ -1,0 +1,12 @@
+Title: 7.03 Challenge Program
+Purpose: Use file reading, array lists, string formatting, etc to display output based on a hurricane data and user input. 
+Date: 2024-2-9
+Author: Gavin Perry
+
+PMR:
+
+    +: Almost all concepts I was required to use I seem to understand well, this assignment didn't take as long as I thought it might've.
+
+    -: The biggest time sink in this assignment was cleanly displaying the output, however I am figuring out how to do it more effectively and efficently, and I'm happy with the result.
+
+In the Future: I think I'll be able to format output quicker and easier with the experience I gained from this project.

@@ -1,0 +1,57 @@
+Class Diagram
+CheeseCakeV1
+
+Variables
+
+- myQuantity : int
+- myServings : int
+- myCreamCheese : int
+- myVanilla : int
+- mySugar : double
+- myFlavor : String
+
+Methods
+
++ calcTotalServings() : void
++ calcCreamCheese() : void
++ calcVanilla() : void
++ calcSugar() : void
++ getquantity() : int
++ getFlavor() : String
++ getSugar() : double
++ getCreamCheese() : int
++ getVanilla() : int
++ getServings() : int
++ toString() : String
+
+
+Psuedocode:
+
+**ChesseCakeV1.java**
+CheeseCakeV1(flavor, quantity):
+    flavor = flavor
+    quantity = quantity
+
+*Calculation methods
+    calcSugar():
+        sugar = quantity / 3
+*etc
+
+*Getter Methods for all private Variables
+
+toString():
+    return(String format(*formatted output))
+
+
+**CheeseCakeTesterV1.java**
+new arraylist<cheesecake> cakes;
+cakes.add("cakeflavor", 3)
+*etc
+
+for cake in cakes:
+    *run calculation methods
+
+print("*Formatting Layout")
+for cake in cakes:
+    println(cake.toString())
+

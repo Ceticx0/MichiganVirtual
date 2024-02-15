@@ -1,0 +1,12 @@
+Title: 7.02 ArrayLists
+Purpose: Use arraylists to create and test cake class,
+Date: 2024-2-9
+Author: Gavin Perry
+
+PMR:
+
+    +: I think arraylists are nice to use and can be very versitile compared to regular arrays, I'm confident in using them
+
+    -: It took me multiple attempts to get the string formatting correctly, and I initally forgot the units. 
+
+In the Future: I would like to use more arraylists to more easily store data variably.

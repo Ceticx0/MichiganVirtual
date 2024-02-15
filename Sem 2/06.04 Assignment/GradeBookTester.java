@@ -1,3 +1,4 @@
+// Gavin Perry, 2/2/2024, Test Gradebook class and format output
 public class GradeBookTester {
 
   public static void main(String[] args) {
@@ -10,15 +11,16 @@ public class GradeBookTester {
     Double sem1Grade3 = 27.2;
     Double sem2Grade3 = 100.5;
 
-    Double finalGrade;
+    Double gradeAverage;
     GradeBook[] gradeBooks = {new GradeBook(sem1Grade1, sem2Grade2), new GradeBook(sem1Grade2, sem2Grade2), new GradeBook(sem1Grade3, sem2Grade3)};
-
-    System.out.println("=======================================");
+    System.out.println("Semester Grades");
+    System.out.println(String.format("%15s\t%15s\t%15s\t%15s", "Sem 1 Grade", "Sem 2 Grade", "Difference", "Average"));
+    System.out.println("===============================================================");
     for (GradeBook gb : gradeBooks) {
-      finalGrade = gb.calcGrade();
-      System.out.println(gb);
+      gradeAverage = gb.calcAverage(gb.getSem1Grade(), gb.getSem2Grade());
+      System.out.println(gb + "\t" + String.format("%15.2f", gradeAverage));
     }
-    System.out.println("=======================================");
+    System.out.println("===============================================================");
 
   }
 
