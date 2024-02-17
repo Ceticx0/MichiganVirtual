@@ -1,0 +1,12 @@
+Title: 7.04  Assignment
+Purpose: Make class testers using traversals
+Date: 2024-2-15
+Author: Gavin Perry
+
+PMR:
+
+    +: This assignment went by quickly, and especially the transition to arraylists only took a minute or two.
+
+    -: I had one error, which was a missed (double) when calculating the percent, however I identified it quickly
+
+In the Future: I would like to 

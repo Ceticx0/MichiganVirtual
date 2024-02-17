@@ -1,0 +1,12 @@
+Title: 7.07  Assignment
+Purpose: Make class testers using deletion with array traversals
+Date: 2024-2-16
+Author: Gavin Perry
+
+PMR:
+
+    +: The content covered here isn't a huge jump, and I didnt have any misunderstandings when completing it.
+
+    -: The process of adding functions, adding null checks for the arrays, and updating the print statements to test it, is very tedious.
+
+In the Future: I want to see if theirs a more efficient way to add null checks and tests to functions.

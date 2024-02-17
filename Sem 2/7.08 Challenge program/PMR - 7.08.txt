@@ -1,0 +1,12 @@
+Title: 7.08 Assignment
+Purpose: Make class testers using all learned traversal algorithms
+Date: 2024-2-16
+Author: Gavin Perry
+
+PMR:
+
+    +: I had no trouble implenenting and using all of the traversal methods used in this class. 
+
+    -: Almost nothing went particularly poorly, I really think I understand all the material very well.
+
+In the Future: I think I could make use of all traversal algorithms reliably, and format output easier and faster than previously.

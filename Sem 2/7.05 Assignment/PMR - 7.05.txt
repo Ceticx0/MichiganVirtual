@@ -1,0 +1,12 @@
+Title: 7.05  Assignment
+Purpose: Make class testers using replacement algorithms
+Date: 2024-2-15
+Author: Gavin Perry
+
+PMR:
+
+    +: Replacements in traversals are extremely simple, and this lesson went by very quick.
+
+    -: I had some weird issues I ran into, especially by making Wonderful George Monkey have the integer limit number of votes, because it lead to the total vote count being negative.
+
+In the Future: I think I could make use of replacement traversal algorithms and identify their use cases reliably.
