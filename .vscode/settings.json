@@ -1,6 +1,12 @@
 {
     "cmake.configureOnOpen": false,
     "java.project.sourcePaths": [
+        "Sem 2/8.02 Binary Search",
+        "Sem 2/8.01 Sequential Search",
+        "Sem 2/7.11 Masgpie Part 2",
+        "Sem 2/7.10 Selection Sort",
+        "Sem 2/7.09 Insertion Sort",
+        "Sem 2/7.08 Challenge program",
         "Sem 2/7.07 deletions",
         "Sem 2/7.06 insertions",
         "Sem 2/7.05 Assignment",
@@ -15,7 +21,7 @@
         "Sem 1/Mod05/Assignments/05.08 Constructing Multiple Objects",
         "Sem 1/Mod05/Assignments/02 Defining New Methods",
         "Sem 1/Mod05/Assignments",
-        "Sem 2/7.08 Challenge program"
+        "Sem 2/8.03 Challenge Program"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

@@ -1,0 +1,12 @@
+Title: 8.02 Binary Sort
+Purpose: binary search algorithms and use them on an array of Music objects.
+Date: 2024-3-1
+Author: Gavin Perry
+
+PMR:
+
+    +: I think binary search algorithms are very interesting and potentially very useful, and I'd love to keep using them.
+
+    -: This assignment took me some time, as I was slightly confused by some of the instructions, however the example binary search code helped
+
+In the Future: I would like to learn about some use cases for binary searching algorithms.

@@ -1,0 +1,12 @@
+Title: 8.03 Challenge Program
+Purpose: Combine sorting algorithms, and sequential and binary sorting algorithms to test Contact class
+Date: 2024-3-1
+Author: Gavin Perry
+
+PMR:
+
+    +: Since none of the information was new here, I understood all the concepts.
+
+    -: This assignment was very feature desnse, and it took a long time to flesh out everything.
+
+In the Future: As much as I enjoy binary search code, I wonder if theres libraries that can accomplish this better and easier than I.

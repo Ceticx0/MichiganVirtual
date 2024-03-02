@@ -1,0 +1,12 @@
+Title: 7.09 Insertion Sort
+Purpose: Implement various insertion sort methods and use them on Movie class
+Date: 2024-2-23
+Author: Gavin Perry
+
+PMR:
+
+    +: Similar to last time, once I had the inital algorithm down, it was easy to extend it to sort by the two other things.
+
+    -: Although selection sort was a bit easier to implement, I think, it still took a lot of thinking to get the algorithm down.
+
+In the Future: I want to try and implement bubble sort, because I heard that's a common interview question.

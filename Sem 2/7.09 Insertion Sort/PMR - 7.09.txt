@@ -1,0 +1,12 @@
+Title: 7.09 Insertion Sort
+Purpose: Implement various insertion sort methods and use them on Movie class
+Date: 2024-2-23
+Author: Gavin Perry
+
+PMR:
+
+    +: Once I had the inital algorithm down, it was easy to extend it to sort by the two other things.
+
+    -: It took some time to get everything for the inital sort function down.
+
+In the Future: I think implementing more sorting algorithms could be interesting to try.

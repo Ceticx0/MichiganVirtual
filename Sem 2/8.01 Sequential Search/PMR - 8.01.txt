@@ -1,0 +1,12 @@
+Title: 8.01 Sequential Sort
+Purpose:  sequential search algorithms and use them on an array of Music objects.
+Date: 2024-2-29
+Author: Gavin Perry
+
+PMR:
+
+    +: I got this done pretty quick, sequential sort algorithms are very simple.
+
+    -: I had the arguments in the wrong order for the Music objects initally..
+
+In the Future: I should look more carefully at the class initalizers.
