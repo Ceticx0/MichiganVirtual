@@ -1,0 +1,12 @@
+Title: 9.04
+Purpose: Use overriding methods to extend various shapes.
+Date: 2024-3-22
+Author: Gavin Perry
+
+PMR:
+
+    +: Overridng methods is inuitive in Java and I didn't struggle with it.
+
+    -: I was a bit confused about the class extensions to make at first and how many dimensions they should have.
+    
+In the Future: I expect Overloaded methods will be useful especially in cases of equality and toString.

@@ -1,6 +1,8 @@
 {
     "cmake.configureOnOpen": false,
     "java.project.sourcePaths": [
+        "Sem 2/9.02 Class Hierarchies",
+        "Sem 2/8.03 Challenge Program",
         "Sem 2/8.02 Binary Search",
         "Sem 2/8.01 Sequential Search",
         "Sem 2/7.11 Masgpie Part 2",
@@ -16,12 +18,16 @@
         "Sem 2/6.05 Project",
         "Sem 2/6.01 Weather Data",
         "Sem 2/6.01 City Weather",
+        "Sem 2/09.04 Overriding Methods",
+        "Sem 2/09.03 Polymorphism",
+        "Sem 2/08.06 Picture Lab /pixLab/classes",
+        "Sem 2/08.05 Catapult Trajectory",
         "Sem 2/07.04 Assignment",
         "Sem 2/06.04 Assignment",
         "Sem 1/Mod05/Assignments/05.08 Constructing Multiple Objects",
         "Sem 1/Mod05/Assignments/02 Defining New Methods",
         "Sem 1/Mod05/Assignments",
-        "Sem 2/8.03 Challenge Program"
+        "Sem 2/09.07 Caesar Shift Cipher"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

@@ -1,0 +1,11 @@
+Title: 8.05 Catapult Trajectory
+Purpose: Use 2d arrays to store calculations
+Date: 2024-3-13
+Author: Gavin Perry
+
+PMR:
+
+    +: 2d arrays are simple to use and useful
+
+    -: Formatting output is really annoying, I wish I could find a library or something to make them more simple and better.
+In the Future: I'd like to know if theres way's to make 2d arrayLists as well as arrays.

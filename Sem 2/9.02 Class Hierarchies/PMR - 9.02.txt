@@ -1,0 +1,12 @@
+Title: 9.02 
+Purpose: Use polymorism.
+Date: 2024-3-22
+Author: Gavin Perry
+
+PMR:
+
+    +: I think implementing subclasses is very inuitive in Java, and this assignment was quick to write and test
+
+    -: I initally had the name of the class I was extending wrong, but realized my mistake quickly, however I'm suprised my IDE didn't point out the error.
+    
+In the Future: I think polymorism will be a helpful tool for writing things more efficiently.

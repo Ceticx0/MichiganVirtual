@@ -1,0 +1,12 @@
+Title: 9.03
+Purpose: Use polymorphism to create circle classes and test them.
+Date: 2024-3-22
+Author: Gavin Perry
+
+PMR:
+
+    +: Polymorphism is actually a really useful and cool concept to me, it seems kind of similar to Duck typing in python, but more structured.
+
+    -: No negatives.
+    
+In the Future: I'm excited to see potentional usecases for polymorphism
