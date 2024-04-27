@@ -1,0 +1,12 @@
+Title: 10.05
+Purpose: User recursion to calculate fibonacci numbers
+Date: 2024-4-14
+Author: Gavin Perry
+
+PMR:
+
+    +: Recursion is an inuitive way to solve this problem, and it was simple to implement.
+
+    -: This program runs quite slow for larger numbers, because the recursive approach calculates many numbers over and over again, which is unnessesary and non preformant.
+    
+In the Future: I'd like to learn more efficient ways of calculating fibonacci numbers.

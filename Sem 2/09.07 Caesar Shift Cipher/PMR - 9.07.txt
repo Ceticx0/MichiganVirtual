@@ -1,0 +1,12 @@
+Title: 9.07
+Purpose: Use static methods to implement ceaser cipher
+Date: 2024-4-2
+Author: Gavin Perry
+
+PMR:
+
+    +: Static methods are helpful for creating easy to use and organized functions, and I understand them well.
+
+    -: I initally was confused why my code wasn't working because I forgot to convert the users text into uppercase before matching it with my alphabet.
+    
+In the Future: I think static methods will be helpful for creating organized programs.

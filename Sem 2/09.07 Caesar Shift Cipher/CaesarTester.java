@@ -1,3 +1,4 @@
+// Gavin Perry, 2024-4-2, The purpose of this program is to test the Caesar Shift Cipher using encryption and decryption classes and static methods.
 import java.util.Scanner;
 
 public class CaesarTester {
@@ -18,7 +19,7 @@ public class CaesarTester {
             if (mode == 1) {
                 System.out.println("Encryped text: " + Encryption.encrypt(text, shift));
             } else {
-                System.out.println("Decrypted text: " + Encryption.decrypt(text, shift));
+                System.out.println("Decrypted text: " + Decryption.decrypt(text, shift));
             }
             mode = getMode(in);
         }

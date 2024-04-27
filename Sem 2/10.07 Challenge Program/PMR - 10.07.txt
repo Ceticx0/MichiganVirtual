@@ -1,0 +1,12 @@
+Title: 10.07
+Purpose: Use everything learned to sort class by multiple things.
+Date: 2024-4-14
+Author: Gavin Perry
+
+PMR:
+
+    +: I was able to effectively use the things I've learned to create this program relatively quickly.
+
+    -: While having many different sorting methods that do almost the same thing seems slightly repetitve, I wasn't sure a good way to fix it.
+    
+In the Future: I'd like to see if I can make a function to sort by any part of a list of objects.

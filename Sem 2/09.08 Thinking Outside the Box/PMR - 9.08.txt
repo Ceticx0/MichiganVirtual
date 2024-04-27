@@ -1,0 +1,12 @@
+Title: 9.08
+Purpose: Create class to print all prime numbers within range
+Date: 2024-3-22
+Author: Gavin Perry
+
+PMR:
+
+    +: The logic of the program was simple to implement.
+
+    -: I was only using static methods initally, and had some confusion figuring out how to restructure the program to make use of the `this` keyword.
+    
+In the Future: I'm more confident in the abilities I learned throughout unit 9.
